@@ -1,0 +1,10 @@
+﻿body {
+    color: rgb(83,163,142);
+    text-align: justify;
+    background: black;
+}
+img{
+    height: 350px;
+    width: 250px;
+    float: left;
+}
